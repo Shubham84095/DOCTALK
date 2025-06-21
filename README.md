@@ -4,7 +4,18 @@ DocTalk is a web-based platform that simplifies the process of connecting patien
 
 ## 🌐 Live Demo
 
-👉 [Visit DocTalk](https://shubham-doctalk.netlify.app/)
+👉 [Visit DocTalk – Main Website](https://shubham-doctalk.netlify.app/)   
+🛠️ [Admin & Doctor Login Panel](https://admin-doctalk.netlify.app/)
+
+## 🧪 Test Credentials
+
+### 👩‍⚕️ Admin & Doctor Access
+Test login credentials for Admin and Doctor roles will be added shortly.
+
+> ⚠️ Stay tuned! Dummy accounts for Admin and Doctor access will be provided here soon.
+
+### 🙋‍♂️ User Access (Patients)
+Patients can register and log in on the main website.
 
 ## 🚀 Features
 
